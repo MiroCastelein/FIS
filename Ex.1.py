@@ -6,6 +6,8 @@ Created on Sun Feb 15 16:57:20 2026
 @author: mirocastelein
 """
 
+# test to see if git works
+
 import pandas as pd
 import math
 import numpy as np
